@@ -1,0 +1,31 @@
+
+body {
+    height: 98% !important;
+    width: 100% !important;
+}
+
+
+
+.primaRiga{
+    border: 2px solid black;
+    height: 40%;
+    align-items: center;
+}
+
+.secondaRiga{
+    border: 2px solid black;
+    height: 30%;
+}
+
+.rigaDescrizione{
+    border: 2px solid black;
+    height: 20%;
+}
+.row{
+    margin: 10px 0 10px;
+}
+
+.icon{
+    padding: 3%;
+    font-size: large;
+}
